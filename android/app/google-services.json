@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409130967107",
+    "project_id": "lets-count-us",
+    "storage_bucket": "lets-count-us.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409130967107:android:d05890ab9ece9aee9f74f6",
+        "android_client_info": {
+          "package_name": "info.duckcloud.lets_count_us"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4oOqReR7i13XmGI5lfPQtqySf1U_KuiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
